@@ -42,9 +42,9 @@ from sklearn.linear_model import Lasso
 ```
 
 ## 📈 **Learning Curve Overview** 📈
-- KNN
+- **KNN**
 ![image](https://github.com/hanyprayitno/Dibimbing-Final-Project---Fetal-Health-Classification/assets/153416155/4ffbb8b2-8bbc-46cd-a1c0-d7665e672c0f)
-- Random Forest Classifier
+- **Random Forest Classifier**
 ![image](https://github.com/hanyprayitno/Dibimbing-Final-Project---Fetal-Health-Classification/assets/153416155/2d0804df-d6c8-42a1-82c3-5d48e92b88f4)
-- Support Vector Machine
+- **Support Vector Machine**
 ![image](https://github.com/hanyprayitno/Dibimbing-Final-Project---Fetal-Health-Classification/assets/153416155/5dd5fd5c-effd-4290-b959-73c0953551e5)
