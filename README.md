@@ -1,7 +1,7 @@
 # 💉 **Dibimbing Final Project - Fetal Health Classification** 💉
 ``` diff
 Oleh : Subhany
-![image](https://github.com/hanyprayitno/Dibimbing-Final-Project---Fetal-Health-Classification/assets/153416155/12c261c3-8a17-49cf-aae2-39d81c1aff52)
+Linkedin : https://www.linkedin.com/in/hany-dsf-94093885?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BslxW7pZPQcCHG4TsIxwGOg%3D%3D
 ```
 
 ### *Dataset Link : https://www.kaggle.com/datasets/andrewmvd/fetal-health-classification/data*
