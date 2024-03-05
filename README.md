@@ -1,13 +1,13 @@
 # 🚑 **Dibimbing Final Project - Fetal Health Classification** 🚑
 
-## *Dataset Link : https://www.kaggle.com/datasets/andrewmvd/fetal-health-classification/data*
+### *Dataset Link : https://www.kaggle.com/datasets/andrewmvd/fetal-health-classification/data*
 
 ![image](https://github.com/hanyprayitno/Dibimbing-Final-Project---Fetal-Health-Classification/assets/153416155/02afd540-aa58-4fc7-83bc-ec2bd70df089)
 
-## 🔎 Project Overview 🔎
+## 🔎 **Project Overview** 🔎
 Final Project ini bertujuan untuk **menganalisis data dalam upaya memperoleh pemahaman mengenai faktor-faktor yang mempengaruhi kesehatan janin** berdasarkan faktor-faktor yang terdapat pada dataset kita seperti; **Percepatan detak jantung, gerakan janin, kontraksi rahim** dan faktor-faktor lain-nya pada kolom dataset kita.
 
-## Penjelasan Pada Kolom
+## **Penjelasan Pada Kolom**
 - **Baseline Value**: Ini adalah nilai-nilai dasar atau rata-rata dari parameter yang diukur. Dalam hal ini mengacu pada data seperti tekanan darah atau detak jantung yang normal selama kehamilan.
 - **Acceleration**: Ini mengacu pada percepatan detak jantung janin dalam respons terhadap rangsangan.
 - **Fetal Movement**: Merupakan ukuran dari gerakan janin selama periode waktu tertentu.
@@ -21,7 +21,7 @@ Final Project ini bertujuan untuk **menganalisis data dalam upaya memperoleh pem
 > Dalam konteks pemantauan kehamilan, data seperti ini digunakan oleh profesional medis untuk memahami kesehatan dan perkembangan janin serta memantau respons terhadap perawatan atau intervensi medis yang mungkin diperlukan.
 > Semua data pada kolom bersifat numerik.
 
-## 📒 Libraries 📒
+## 📒 **Libraries** 📒
 ```python
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -41,7 +41,7 @@ from sklearn.linear_model import Ridge
 from sklearn.linear_model import Lasso
 ```
 
-## 📈 Learning Curve Overview 📈
+## 📈 **Learning Curve Overview** 📈
 - KNN
 ![image](https://github.com/hanyprayitno/Dibimbing-Final-Project---Fetal-Health-Classification/assets/153416155/4ffbb8b2-8bbc-46cd-a1c0-d7665e672c0f)
 - Random Forest Classifier
