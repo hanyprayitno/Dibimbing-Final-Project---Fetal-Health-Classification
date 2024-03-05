@@ -1,4 +1,4 @@
-# 🚑 <span style="color: green"> Dibimbing Final Project - Fetal Health Classification </span> 🚑
+# 🚑 <font color="green"> Dibimbing Final Project - Fetal Health Classification </font> 🚑
 
 ### *Dataset Link : https://www.kaggle.com/datasets/andrewmvd/fetal-health-classification/data*
 
