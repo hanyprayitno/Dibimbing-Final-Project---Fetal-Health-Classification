@@ -1,6 +1,6 @@
 # 💉 **Dibimbing Final Project - Fetal Health Classification** 💉
 ``` diff
-+ Oleh : Subhany
+Oleh : Subhany
 ```
 
 ### *Dataset Link : https://www.kaggle.com/datasets/andrewmvd/fetal-health-classification/data*
