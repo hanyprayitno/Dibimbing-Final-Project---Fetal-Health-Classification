@@ -41,7 +41,7 @@ from sklearn.linear_model import Ridge
 from sklearn.linear_model import Lasso
 ```
 
-## Learning Curve Overview
+## 📈 Learning Curve Overview 📈
 - KNN
 ![image](https://github.com/hanyprayitno/Dibimbing-Final-Project---Fetal-Health-Classification/assets/153416155/4ffbb8b2-8bbc-46cd-a1c0-d7665e672c0f)
 - Random Forest Classifier
